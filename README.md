@@ -1,5 +1,7 @@
+<h1 align="center">Wahaj Ahmed</h1>
+
 <p align="center">
-  <img src="https://wahaj-portfolio-one.vercel.app/opengraph-image" alt="Wahaj Ahmed, full-stack engineer" width="840">
+  <b>Full-stack engineer</b> &nbsp;·&nbsp; React &nbsp;·&nbsp; Next.js &nbsp;·&nbsp; Node &nbsp;·&nbsp; AWS
 </p>
 
 <p align="center">
