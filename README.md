@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://wahaj-portfolio-one.vercel.app"><b>Portfolio</b></a>
+  <a href="https://www.wahajahmed.dev"><b>Portfolio</b></a>
   &nbsp;·&nbsp;
   <a href="https://www.linkedin.com/in/wahajahmed-ftw/">LinkedIn</a>
   &nbsp;·&nbsp;
